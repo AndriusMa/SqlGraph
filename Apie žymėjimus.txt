@@ -1,0 +1,8 @@
+Kad nebūtų kokių dviprasmybių, išskiriu žymėjimus.
+
+Žymėjimai:
+
+* Juodi taškai prie laukų reiškia, ar gali būti null reikšmė;
+* Pabraukti laukai yra pirminiai;
+* 1:n laukai yra ryšio žymėjimas (vienas su daug);
+* Nežinojau, ar korektiška yra žymėti *_Id tipus su "Serial", todėl palikau "Integer" reikšmes.
